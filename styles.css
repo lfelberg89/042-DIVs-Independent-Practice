@@ -1,0 +1,23 @@
+img {
+    height: 200px;
+}
+
+.header {
+    background-color: lightblue;
+    border: 7px dotted pink;
+    padding: 10px;
+}
+
+.troy {
+    background-color: lightgreen;
+    border: 7px solid purple;
+    padding: 10px;
+    margin: 5px;
+}
+
+.richard {
+    background-color: red;
+    border: 7px solid gold;
+    padding: 10px;
+    margin: 5px;
+}
